@@ -38,12 +38,8 @@ layout: default
         </header>
         <div class="excerpt">
           {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
-        </div>
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          {{ site.theme.str_continue_reading }}
-        </a>
+      </div>
       </li>
-      {% endfor %}
     </ul>
   </div>
 
