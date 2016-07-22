@@ -38,7 +38,7 @@ theme:
   wordpress:
   youtube: chrisroper5/playlists
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-81205727-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
