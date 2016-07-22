@@ -22,7 +22,7 @@ theme:
   behance:
   bitbucket:
   dribbble:
-  facebook: http://www.facebook.com/roperxyz/
+  facebook: roperxyz/
   flickr:
   github:   roperxyz # github profile name, e.g. "madebymunsters"
   google_plus:
@@ -34,9 +34,9 @@ theme:
   stack_exchange:  http://stackoverflow.com/users/6491439/christopher-roper
   steam:
   tumblr:
-  twitter: https://twitter.com/roperxyz
+  twitter: roperxyz
   wordpress:
-  youtube: https://www.youtube.com/playlist?list=PLlk6yKkxE9lu8vAdxV_HwgHl9vlXXgUqp
+  youtube: playlist?list=PLlk6yKkxE9lu8vAdxV_HwgHl9vlXXgUqp
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
