@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /about/
 feature-img: "img/color.png"
 ---
