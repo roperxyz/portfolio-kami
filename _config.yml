@@ -10,8 +10,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h2>An Imaginative & Clever Rails Developer</h2>
-     <p>I'm a developer specializing in Rails, Ruby, HTML, CSS and so much more.</p>
+     <h2>An Imaginative and Skillful Rails Developer</h2>
+     <p>Specializing in Rails, Ruby, HTML, CSS and so much more.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
