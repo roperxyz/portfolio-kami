@@ -5,12 +5,85 @@ permalink: /resume/
 feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+SKILLS
+•	Web Developer Skills:
+o	Skill level: 6/10 – Ruby and Rails
+o	Skill level: 7/10 - HTML/CSS
+o	Skill level: 4/10 – JavaScript
+o	Currently enrolled at BLOC studying Software Engineering.
+o	       Learning Additional skills in HTML, CSS, JavaScript, Ruby, Ruby on     Rails, SQL and computer science theory.
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+•	General Skills:
+o	10 Years of sales experience before fire career.
+o	Leadership and interpersonal Skills.
+o	Hard working, loyal and committed.
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+•	Emergency Response Skills:
+o	Certified Heavy Rescue Technical: Rope Rescue, Confined Space Rescue, Trench Rescue, Ice Rescue, Swift Water Rescue, Boat Rescue and FEMA Structural Collapse Tech
+o	Utah State Paramedic: Advanced training in 12 Lead EKG, Therapeutic Hypothermia.
+o	Fire Suppression: Structural and Overhaul.
+o	Computer proficient with Microsoft Office Products.
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
+EXPERIENCE
+Firefighter/Paramedic, South Jordan Fire Department
+South Jordan, Utah — July 2005 to Medically Retired February 2016
 
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+  Respond to and assist at a wide variety of calls for service including but not limited to fires, rescue situations, hazardous materials incidents, medical emergencies, floods, natural and manmade disasters, elderly assists, police assist and motorist assists.   Respond to emergency medical incidents; triage patients and determine appropriate medical care, provide advanced life support to the sick and injured. Three years as a SWAT Medic for the South Jordan Police Dept.
+  Medically retired in February 2016 due to neck and nerve injury.
+
+Paramedic, Jordan Valley Medical Center- ER
+West Jordan, Utah - June 2007 to February 2010
+
+  In the emergency department participate medical treatment; triage patients and determine appropriate medical care, provide advanced life support to the sick and injured.
+
+Health Unit Coordinator-University of Utah Hospital- Surgical ICU
+Salt Lake City, Utah - January 2002-September 2005
+
+  The Health Unit Coordinator (HUC) provides communication to hospital staff, patients, families, and visitors, they provide guidance to care providers on how to enter patient orders into the computer system, they process paperwork to order medical treatments and tests; collects/compiles/retrieves patient's test and lab results, The HUC may work with manager/designee to reconcile unit charges. They maintain and updates unit activity boards and assist in orienting new employees regarding the clerical functions of the unit and updates health unit coordinator's reference manual as needed.  
+
+Owner/Web Developer - 3rdlot.com
+Salt Lake City, Utah – April 2001-sold site January 2002
+
+  Designed and implemented 3rdlot.com, an e-commerce site that sold winter/summer sports gear for business liquidation company. Designed html site, e-commence system from scratch.
+
+Accomplishments
+●	In the medical profession for over 10 years.
+●	A certified Utah Paramedic for over 10 years.
+●	In the professional Fire service for nine years.
+●	Certified Utah Firefighter I & II from the Utah Fire and Rescue Academy.
+●	Certified Utah HAZMAT Awareness and Operations from the Utah Fire and Rescue Academy.
+●	Five-time South Jordan Fire Cardiac React Award recipient.
+●	Five-time South Jordan Fire STEMI Award recipient.
+●	A member of the South Jordan Police SWAT team for three years.
+●	Recipient of the South Jordan Fire SWAT Medic Award.
+●	Successful passed the Utah County SWAT School.
+●	A certified Special Functions Officer from Utah Police Officer Standards and Training.
+●	Attended Salt Lake City Fire Heavy Rescue School and recipient of the South Jordan Fire Technical Rescue Award.
+●	Recipient Superior Fitness Award. An award which I earned after successfully passing the physical agility test five years in a row.
+●	Certified Utah Fire Instructor I
+
+EDUCATION
+
+Utah Valley University
+Emergency Services Management BS— 2005- 2015
+
+Salt Lake Fire Department
+Heavy Rescue School- 2008
+
+Utah Police and Standards Training
+Special Functions Officer -2007
+
+Utah Valley University
+Emergency Services AAS— 2002-2005
+
+Utah Valley University
+Paramedic Certification Class #10— 2004-2005
+
+Utah Valley University
+Utah Fire & Rescue Academy Class #27— 2003-2004
+
+Westminster College
+Biology— 2002-2003 - Dean’s Scholarship
+
+REFERENCES
+Available upon request.
