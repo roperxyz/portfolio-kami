@@ -6,11 +6,11 @@ url: "http://roper.xyz" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Christopher Roper # Your name will go here
-  description: "A personal rails and web development portfolio and blog" # used by search engines
+  description: "A rails and web development portfolio and blog" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h2>An Imaginative and Skillful Rails Developer</h2>
+     <h2>An Imaginative and Skillful Rails and Web Developer</h2>
      <p>Specializing in Rails, Ruby, HTML, CSS and so much more.</p>
   header_text_feature_image:
   footer_text: >
