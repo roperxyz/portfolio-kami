@@ -6,12 +6,11 @@ feature-img: "img/color.png"
 ---
 
 <h3>SKILLS</h3>
-•	Web Developer Skills:
-o	Skill level: 6/10 – Ruby and Rails
-o	Skill level: 7/10 - HTML/CSS
-o	Skill level: 4/10 – JavaScript
-o	Currently enrolled at BLOC studying Software Engineering.
-o	       Learning Additional skills in HTML, CSS, JavaScript, Ruby, Ruby on     Rails, SQL and computer science theory.
+<ul>Web Developer Skills:</ul>
+    <li>Skill level: 7/10 – Ruby and Rails</li>
+<li>Skill level: 7/10 - HTML/CSS</li>
+<li>Skill level: 4/10 – JavaScript</li>
+
 
 •	General Skills:
 o	10 Years of sales experience before fire career.
