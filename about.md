@@ -39,7 +39,7 @@ West Jordan, Utah - June 2007 to February 2010
 Health Unit Coordinator-University of Utah Hospital- Surgical ICU
 Salt Lake City, Utah - January 2002-September 2005
 
-  The Health Unit Coordinator (HUC) provides communication to hospital staff, patients, families, and visitors, they provide guidance to care providers on how to enter patient orders into the computer system, they process paperwork to order medical treatments and tests; collects/compiles/retrieves patient's test and lab results, The HUC may work with manager/designee to reconcile unit charges. They maintain and updates unit activity boards and assist in orienting new employees regarding the clerical functions of the unit and updates health unit coordinator's reference manual as needed.  
+  The Health Unit Coordinator (HUC) provides communication to hospital staff, patients, families, and visitors, they provide guidance to care providers on how to enter patient orders into the computer system, they process paperwork to order medical treatments and tests; collects/compiles/retrieves patient's test and lab results, The HUC may work with manager/designee to reconcile unit charges. They maintain and updates unit activity boards and assist in orienting new employees regarding the clerical functions of the unit and updates health unit coordinator's reference manual as needed.
 
 Owner/Web Developer - 3rdlot.com
 Salt Lake City, Utah – April 2001-sold site January 2002
