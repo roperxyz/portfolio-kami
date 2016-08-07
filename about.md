@@ -1,9 +1,9 @@
-  ---
-  layout: page
-  title: Resume
-  permalink: /resume/
-  feature-img: "img/color.png"
-  ---
+---
+layout: page
+title: Resume
+permalink: /resume/
+feature-img: "img/color.png"
+---
 
 <p> <img src="img/chris.jpg" width="96" height="96" alt="" align="center"/>
 </p>
