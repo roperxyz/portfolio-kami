@@ -4,9 +4,7 @@ title: Resume
 permalink: /resume/
 feature-img: "img/color.png"
 ---
-
-<p> <img src="https://roperxyz.github.io/img/chris.jpg" width="96" height="96" alt="Photo of Chris Roper" align="center"/>
-</p>
+<img src="https://roperxyz.github.io/img/chris.jpg" width="96" height="96" alt="Photo of Chris Roper" align="center"/>
 <h3>SKILLS:</h3>
 <ul>Web Developer Skills:</ul>
 <li>Skill level: 7/10 – Ruby and Rails</li>
