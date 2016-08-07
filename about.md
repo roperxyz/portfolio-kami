@@ -62,28 +62,16 @@ ACCOMPLISHMENTS:
 </ul>
 
 <h3>EDUCATION:</h3>
-<ul>
-<li>Utah Valley University</li>
-<li>Emergency Services Management BS— 2005- 2015</li>
-
-<li>Salt Lake Fire Department</li>
-<li>Heavy Rescue School- 2008</li>
-
-<li>Utah Police and Standards Training</li>
-<li>Special Functions Officer -2007</li>
-
-<li>Utah Valley University</li>
-<li>Emergency Services AAS— 2002-2005</li>
-
-<li>Utah Valley University</li>
-<li>Paramedic Certification Class #10— 2004-2005</li>
-
-<li>Utah Valley University</li>
-<li>Utah Fire & Rescue Academy Class #27— 2003-2004</li>
-
-<li>Westminster College</li>
-<li>Biology— 2002-2003 - Dean’s Scholarship</li>
-</ul>
-
+  <div>
+    <ul>
+      <li>Utah Valley University || Emergency Services Management BS— 2005- 2015</li>
+      <li>Salt Lake Fire Department || Heavy Rescue School- 2008</li>
+      <li>Utah Police and Standards Training || Special Functions Officer -2007</li>
+      <li>Utah Valley University || Emergency Services AAS— 2002-2005</li>
+      <li>Utah Valley University || Paramedic Certification Class #10— 2004-2005</li>
+      <li>Utah Valley University || Utah Fire & Rescue Academy Class #27— 2003-2004</li>
+      <li>Westminster College || Biology— 2002-2003 - Dean’s Scholarship</li>
+    </ul>
+  </div>
 <p>REFERENCES
   Available upon request. </p>
