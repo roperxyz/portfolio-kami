@@ -40,7 +40,7 @@ West Jordan, Utah - June 2007 to February 2010</h4>
 <h4>Owner/Web Developer - 3rdlot.com || Salt Lake City, Utah – April 2001-sold site January 2002</h4>
 
   <p>Designed and implemented 3rdlot.com, an e-commerce site that sold winter/summer sports gear for business liquidation company. Designed html site, e-commence system from scratch.</p>
-
+<bk>
 <h3>
 ACCOMPLISHMENTS:
 </h3>
