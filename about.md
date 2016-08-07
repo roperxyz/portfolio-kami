@@ -10,12 +10,12 @@ feature-img: "img/color.png"
 <li>Skill level: 7/10 – Ruby and Rails</li>
 <li>Skill level: 7/10 - HTML/CSS</li>
 <li>Skill level: 4/10 – JavaScript</li>
-
+<{% break %}
 <ul>General Skills:</ul>
 <li>10 Years of sales experience before fire career.</li>
 <li>Leadership and interpersonal Skills.</li>
 <li>Hard working, loyal and committed.</li>
-
+{% break %}
 <ul>Emergency Response Skills:</ul>
 <li>Certified Heavy Rescue Technical: Rope Rescue, Confined Space Rescue, Trench Rescue, Ice Rescue, Swift Water Rescue, Boat Rescue and FEMA Structural Collapse Tech.</li>
 <li>Utah State Paramedic: Advanced training in 12 Lead EKG, Therapeutic Hypothermia.</li>
