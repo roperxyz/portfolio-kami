@@ -5,7 +5,7 @@ permalink: /resume/
 feature-img: "img/color.png"
 ---
 
-SKILLS
+<h3>SKILLS</h3>
 •	Web Developer Skills:
 o	Skill level: 6/10 – Ruby and Rails
 o	Skill level: 7/10 - HTML/CSS
