@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: BlocIt
+thumbnail-path: "img/blocit.png"
+short-description: The goal of this project was to build a production quality replica of reddit.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/blocit.png)
 
 ## Explanation
 
