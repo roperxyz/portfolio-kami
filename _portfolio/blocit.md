@@ -2,7 +2,7 @@
 layout: post
 title: BlocIt
 thumbnail-path: "img/blocit.png"
-short-description: The goal of this project was to build a production quality replica of reddit.
+short-description: A production quality replica of reddit.
 
 ---
 
