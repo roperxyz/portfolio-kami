@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-<h3>Please feel free to contact me anytime for business or career opportunities.</h3>
+<h5>Please feel free to contact me anytime for business or career opportunities.</h5>
 
 <p>Christopher Roper</p>
 <p>1 (801) 438-7858</p>
