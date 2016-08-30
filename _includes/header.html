@@ -12,9 +12,20 @@
 			{% endfor %}
 		</ul>
 	</nav>
-
+	<script>
+    (function() {
+      var cx = '006128386907485103985:fuikexpss3y';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  <gcse:search></gcse:search>
 	{% if site.theme.header_text %}
-  <div class="call-out" 
+  <div class="call-out"
   style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
   	<h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme.title }}</a>
